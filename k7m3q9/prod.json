@@ -1,0 +1,5 @@
+{
+  "rewardAdInterval": 60,
+  "installGraceMinutes": 10,
+  "adLoadFailureMax": 3
+}
