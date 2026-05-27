@@ -1,5 +1,7 @@
 {
   "rewardAdInterval": 60,
   "installGraceMinutes": 10,
-  "adLoadFailureMax": 3
+  "adLoadFailureMax": 3,
+  "ratingBytesThresholdMB": 1500,
+  "ratingSessionThreshold": 3
 }
